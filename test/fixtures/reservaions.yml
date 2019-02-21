@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: 1
+  time: 2019-02-21 10:36:50
+  duration: 1
+  user: one
+  table: one
+
+two:
+  number: 1
+  time: 2019-02-21 10:36:50
+  duration: 1
+  user: two
+  table: two
